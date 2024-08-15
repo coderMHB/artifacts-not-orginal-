@@ -154,6 +154,7 @@ button.btn.X:active {
   left: 50%;
   width: 60%;
   display: none;
+  z-index: 1;
 }
 .my-modal-parent-search {
   position: fixed;
@@ -162,6 +163,7 @@ button.btn.X:active {
   left: 50%;
   width: 60%;
   display: none;
+  z-index: 1;
 }
 .my-modal {
   background-color: black !important;
