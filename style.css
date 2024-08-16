@@ -684,6 +684,12 @@ path {
   }
 }
 /* end header background */
+
+@media (max-width: 352px){
+  .text-icon{
+    font-size: 15px;
+  }
+}
 /* ___________________________end index______________________________ */
 
 /* _________________scrollbar_____________________ */
